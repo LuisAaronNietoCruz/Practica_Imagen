@@ -12,5 +12,7 @@ Clonar el repositorio:
 git clone https://github.com/LuisAaronNietoCruz/Practica_Imagen
 
 Compilar el archivo  practica1:
+
 mpicc practica2.c -lm -lspng -o ./practica2
+
 mpiexec -l -n 1 ./practica2
