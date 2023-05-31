@@ -11,7 +11,7 @@ El objetivo de esta practica es transformar una imagen utilizando Glade.
 Clonar el repositorio:
 git clone https://github.com/LuisAaronNietoCruz/Practica_Imagen
 
-Compilar el archivo  practica1:
+Compilar el archivo practica2:
 
 mpicc practica2.c -lm -lspng -o ./practica2
 
